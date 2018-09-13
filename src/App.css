@@ -1,0 +1,57 @@
+* {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+  border: 0px;
+  height: 25px;
+  width: 25px;
+  margin: 10px;
+}
+
+button .up-down{
+  height: 25px;
+}
+
+button .delate{
+  height: 15px;
+}
+
+li{
+  list-style-type: none;
+}
+.menu-main-look{
+  height: 200px;
+  width: 100%;
+  background-color: bisque;
+  background-image: url('menu-view.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+
+.menu-main-look h1{
+  position: relative;
+  top: 25%;
+  color: #08415e;
+  letter-spacing: -3px;
+  text-align: left;
+
+}
+
+.menu-main-look-cursive {
+  font-family: 'Pacifico', cursive;
+  display: inline-block;
+  letter-spacing: 1px;
+}
+
+.menu-survey-look h1{
+
+}
+
+
+
+
