@@ -1,6 +1,7 @@
 {
   "name": "my-react-app-workshop",
   "version": "0.1.0",
+  "homepage": "https://kamiinblack.github.io/React-app-Survey",
   "private": true,
   "dependencies": {
     "cors-anywhere": "^0.4.1",
